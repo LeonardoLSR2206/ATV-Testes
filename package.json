@@ -1,0 +1,23 @@
+{
+  "name": "atv-testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoLSR2206/ATV-Testes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoLSR2206/ATV-Testes/issues"
+  },
+  "homepage": "https://github.com/LeonardoLSR2206/ATV-Testes#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
